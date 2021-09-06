@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hello, humans!
+
+I learn front-end development, certainly html, css and javascript
