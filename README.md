@@ -2,4 +2,4 @@
 
 Hello, humans!
 
-I learn front-end development, certainly html, css and javascript
+I learn front-end development, html, css and javascript
